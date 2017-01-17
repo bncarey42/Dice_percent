@@ -1,3 +1,3 @@
 # Dice_percent
-Dice Percent allow the user to input a number of times they would like to roll two dice. 
-Then the Programs calculates the number of times those dice would roll seven
+Dice Percent allows the user to input the number of times they would like to roll two dice. 
+Then the program calculates the percintage of times those dice would roll seven.
